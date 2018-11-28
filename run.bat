@@ -1,0 +1,1 @@
+decay.exe < decay.fil

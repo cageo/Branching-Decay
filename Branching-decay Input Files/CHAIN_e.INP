@@ -1,0 +1,35 @@
+     1.0000E-02                                                Q
+     1.0000E-01                                                POR
+     1.0000e+00                                                rhob
+              4                                                nspecies
+              1                                                NLEVELS (MAX=3)
+     1.8000E-01  1.8000E-01  1.8000E-01  1.8000E-01            D(=AL*Q/POR)
+     0.0000e-02  0.0000e-01  0.0000e+00  0.0000e+00            kd
+     6.9300E-03  3.4700E-03  1.1600E-03  1.0000E-03            LAMDA1
+     6.9300E-03  3.4700E-03  1.1600E-03  1.0000E-03            LAMDA2
+     0           1           1           1                     LEVEL OF DECAY
+     0           1           1           1                     NUMBER OF PARENTS
+     0                                                         SPECIES NO. OF PARENTS FOR SPECIES 1
+     1                                                         SPECIES NO. OF PARENTS FOR SPECIES 2
+     1                                                         SPECIES NO. OF PARENTS FOR SPECIES 3
+     1                                                         SPECIES NO. OF PARENTS FOR SPECIES 4
+     0.0000e+00                                                Y FOR SPECIES 1
+     1.0000e+00                                                Y FOR SPECIES 2
+     1.0000e+00                                                Y FOR SPECIES 3
+     1.0000e+00                                                Y FOR SPECIES 4
+     1.0000e+00                                                ETA FOR SPECIES 1
+     5.0000e-01                                                ETA FOR SPECIES 2
+     3.0000e-01                                                ETA FOR SPECIES 3
+     2.0000e-01                                                ETA FOR SPECIES 4
+     1                                                         IBC
+     1                                                         NP1
+     0	1
+     1                                                         NP2
+     0	0
+     1                                                         NP3
+     0	0
+     1                                                         NP4
+     0	0
+     0.0000E+00  5.0000e+01  1.0000e+00                        Xmin,xmax,dx
+              1                                                NT
+     6.0000E+02                                                TIMES

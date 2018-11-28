@@ -1,0 +1,45 @@
+     1.0000E-02                                                Q
+     1.0000E-01                                                POR
+     1.0000e+00                                                rhob
+              6                                                nspecies
+              3                                                NLEVELS (MAX=3)
+     1.8000E-01  1.8000E-01  1.8000E-01  1.8000E-01  1.8000E-01  1.8000E-01         D(=AL*Q/POR)
+     0.0000e-00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00          kd
+     5.0000E-03  3.0000E-03  1.5000E-03  2.0000E-03  1.0000E-03  5.0000E-04        LAMDA1
+     5.0000E-03  3.0000E-03  1.5000E-03  1.0000E-03  1.0000E-03  5.0000E-04          LAMDA2
+     0           1           1           2           3           3                 LEVEL OF DECAY
+     0           1           1           2           1           1                 NUMBER OF PARENTS
+     0                                                         SPECIES NO. OF PARENTS FOR SPECIES 1
+     1                                                         SPECIES NO. OF PARENTS FOR SPECIES 2
+     1                                                         SPECIES NO. OF PARENTS FOR SPECIES 3
+     2  3                                                      SPECIES NO. OF PARENTS FOR SPECIES 4
+     4                                                         SPECIES NO. OF PARENTS FOR SPECIES 5
+     4                                                         SPECIES NO. OF PARENTS FOR SPECIES 6
+     0.0000e+00                                                Y FOR SPECIES 1
+     1.0000e+00                                                Y FOR SPECIES 2
+     1.0000e+00                                                Y FOR SPECIES 3
+     1.0000e+00  1.0000e+00                                    Y FOR SPECIES 4
+     1.0000e+00                                                Y FOR SPECIES 5
+     1.0000e+00                                                Y FOR SPECIES 6
+     1.0000e+00                                                ETA FOR SPECIES 1
+     0.6000e+00                                                ETA FOR SPECIES 2
+     0.4000e+00                                                ETA FOR SPECIES 3
+     1.0000e+00  1.0000e+00                                    ETA FOR SPECIES 4
+     0.6000e+00                                                ETA FOR SPECIES 5
+     0.4000e+00                                                ETA FOR SPECIES 6
+     1                                                         IBC
+     1                                                         NP1
+     0	1
+     1                                                         NP2
+     0	0
+     1                                                         NP3
+     0	0
+     1                                                         NP4
+     0	0
+     1                                                         NP5
+     0	0  
+     1                                                         NP6
+     0	0
+     0.0000E+00  5.0000e+01  1.0000e+00                        Xmin,xmax,dx
+              1                                                NT
+     2.0000E+02                                                TIMES
